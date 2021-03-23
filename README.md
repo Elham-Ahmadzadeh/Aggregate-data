@@ -1,4 +1,4 @@
-# Aggregate-data
+LAB1
 A mssql Aggregate functions
 
 
