@@ -2,7 +2,7 @@ LAB1
 A mssql Aggregate functions
 
 
-MoonMissions
+### MoonMissions
 Använd ”select into” för att ta ut kolumnerna ’Spacecraft’, ’Launch date’, ’Carrier rocket’, ’Operator’, samt ’Mission type’ för alla lyckade uppdrag (Successful outcome) och sätt in i en ny tabell med namn ”SuccessfulMissions”.
 GO
 
